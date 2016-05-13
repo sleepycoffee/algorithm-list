@@ -39,7 +39,7 @@ public class LinkedListTest {
 			middle = middle.getNext();
 		}
 
-		System.out.println("length of LinkedList: " + length);
+		System.out.println("Masterlength of LinkedList: " + length);
 		System.out.println("middle element of LinkedList : " + middle);
 
 	} 
